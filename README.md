@@ -8,7 +8,7 @@ mokmok_yyyy-mm-dd
 
 # 告知
 * [facebookグループ](https://www.facebook.com/groups/132324356892674)
-* [Sendagaya.rb #2](http://www.zusaar.com/event/)
+* [Sendagaya.rb #](http://www.zusaar.com/event/)
 
 # 流れ
 * 19:00 Heroku Dev Center読書会
@@ -17,16 +17,7 @@ mokmok_yyyy-mm-dd
   * 作業まとめながらやるもよし！各自README.mdへ書く
 * 21:15 振り返り(やったこと発表,KPT)
 * 21:30 終了
+* 22:00 撤収(渋谷・原宿方面の方はウォーキング組あり)
 
 # KPT
-## Keep
-* kpt
-
-## Problem
-* problem
-
-## Try
-* try
-    * 小規模
-
-# Togetter
+http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
