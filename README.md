@@ -8,7 +8,7 @@ mokmok_yyyy-mm-dd
 
 # 告知
 * [facebookグループ](https://www.facebook.com/groups/132324356892674)
-* [Sendagaya.rb #](http://www.zusaar.com/event/)
+* [Sendagaya.rb #](http://www.zusaar.com/event/300004)
 
 # 流れ
 * 19:00 Heroku Dev Center読書会
@@ -21,3 +21,7 @@ mokmok_yyyy-mm-dd
 
 # KPT
 http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
+
+# 相談事
+* 英語勉強会
+* 札幌Ruby会議
