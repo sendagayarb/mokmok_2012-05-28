@@ -1,4 +1,4 @@
-mokmok_yyyy-mm-dd
+mokmok_2012-05-28 
 =================
 
 ![sendagaya.rb logo](http://ppworks.info/images/sendagayarb100x100.png)
@@ -18,6 +18,12 @@ mokmok_yyyy-mm-dd
 * 21:15 振り返り(やったこと発表,KPT)
 * 21:30 終了
 * 22:00 撤収(渋谷・原宿方面の方はウォーキング組あり)
+
+# 参加者
+- ppworks[すたっふぅー]
+- fukajun[すたっふぅー] 
+  - ポジションペーパー:http://kitbc.s41.xrea.com/main/
+
 
 # KPT
 http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
