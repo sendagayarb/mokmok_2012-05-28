@@ -21,7 +21,7 @@ mokmok_2012-05-28
 
 # 参加者
 - ppworks[すたっふぅー]
-  - ポジションペーパー:ppworks.info
+  - ポジションペーパー:http://ppworks.info
 - fukajun[すたっふぅー] 
   - ポジションペーパー:http://kitbc.s41.xrea.com/main/
 
