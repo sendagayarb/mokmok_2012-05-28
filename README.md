@@ -9,7 +9,8 @@ mokmok_2012-05-28
 # 告知
 * [facebookグループ](https://www.facebook.com/groups/132324356892674)
 * [Sendagaya.rb #](http://www.zusaar.com/event/300004)
-
+* [エアー参加用chat部屋 #](http://lingr.com/room/sendagayarb)
+* 
 # 流れ
 * 19:00 Heroku Dev Center読書会
 * 19:30 説明 + 自己紹介 + 各自やること発表
