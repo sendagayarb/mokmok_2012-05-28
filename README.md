@@ -1,4 +1,4 @@
-mokmok_2012-05-28 
+mokmok_2012-05-28
 =================
 
 ![sendagaya.rb logo](http://ppworks.info/images/sendagayarb100x100.png)
@@ -10,7 +10,7 @@ mokmok_2012-05-28
 * [facebookグループ](https://www.facebook.com/groups/132324356892674)
 * [Sendagaya.rb #](http://www.zusaar.com/event/300004)
 * [エアー参加用chat部屋 #](http://lingr.com/room/sendagayarb)
-* 
+*
 # 流れ
 * 19:00 Heroku Dev Center読書会
 * 19:30 説明 + 自己紹介 + 各自やること発表
@@ -23,10 +23,15 @@ mokmok_2012-05-28
 # 参加者
 - ppworks[すたっふぅー]
   - ポジションペーパー:http://ppworks.info
-- fukajun[すたっふぅー] 
+- fukajun[すたっふぅー]
   - ポジションペーパー:http://kitbc.s41.xrea.com/main/
 - s-kimura[すたっふぅー]
   - ポジションペーパー:http://p.kimura-online.com/
+- ir3
+  - ポジションペーパーかなり昔のRails勉強会の際の情報ですが流用→ http://goo.gl/qS13y
+
+
+
 
 # KPT
 http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
