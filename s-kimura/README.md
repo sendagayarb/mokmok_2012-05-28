@@ -8,6 +8,7 @@
 
 ### 今日学んだこと
 * capコマンドでセットアップ
+* rvm requirements
 
 ### 今日ハマったこと
 * Google Sitesの使い方
