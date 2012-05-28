@@ -1,16 +1,13 @@
 #【モクモクテーマ】モクモクすることを書く
-* コレやります。
-* コレやります。
+* capistrano で rvm インストール、そしてruby インストール
 
 ## もくもくの記録
 ### 今日できたこと
-* コレやります。
+* capistranoのハンズオンできた。
 
 ### 今日学んだこと
-* コレやります。
+* 意外にみんなcapistranoはdpeloyしか使ってない。
 
 ### 今日ハマったこと
-* コレやります。
- $ pwd
-
-    pkg_for_ruby = %w[gcc-c++ patch readline readline-devel zlib zlib-devel libyaml-    devel libffi-devel openssl-devel make bzip2 autoconf automake libtool bison icon    v-devel]
+* 用意した資料を見て打つのだけど、書く量が多かった。もっと減らす。
+* 各自に資料を配れればよかった。
