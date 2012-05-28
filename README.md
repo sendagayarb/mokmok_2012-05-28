@@ -25,7 +25,8 @@ mokmok_2012-05-28
   - ポジションペーパー:http://ppworks.info
 - fukajun[すたっふぅー] 
   - ポジションペーパー:http://kitbc.s41.xrea.com/main/
-
+- s-kimura[すたっふぅー]
+  - ポジションペーパー:http://p.kimura-online.com/
 
 # KPT
 http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
