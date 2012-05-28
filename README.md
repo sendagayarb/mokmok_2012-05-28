@@ -8,9 +8,10 @@ mokmok_2012-05-28
 
 # 告知
 * [facebookグループ](https://www.facebook.com/groups/132324356892674)
-* [Sendagaya.rb #](http://www.zusaar.com/event/300004)
+* [Sendagaya.rb #5](http://www.zusaar.com/event/300004)
 * [エアー参加用chat部屋 #](http://lingr.com/room/sendagayarb)
 *
+
 # 流れ
 * 19:00 Heroku Dev Center読書会
 * 19:30 説明 + 自己紹介 + 各自やること発表
@@ -25,7 +26,7 @@ mokmok_2012-05-28
   - ポジションペーパー:http://ppworks.info
 - fukajun[すたっふぅー]
   - ポジションペーパー:http://kitbc.s41.xrea.com/main/
-- s-kimura[すたっふぅー]
+- s-kimura
   - ポジションペーパー:http://p.kimura-online.com/
 - ir3
   - ポジションペーパーかなり昔のRails勉強会の際の情報ですが流用→ http://goo.gl/qS13y
