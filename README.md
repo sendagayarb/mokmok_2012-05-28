@@ -36,6 +36,9 @@ mokmok_2012-05-28
 # KPT
 http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
 
+# togetter
+http://togetter.com/li/312247
+
 # 相談事
 * 英語勉強会
 * 札幌Ruby会議
